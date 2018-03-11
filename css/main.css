@@ -1,0 +1,13 @@
+@import url("https://fonts.googleapis.com/css?family=Anton|Crete+Round");
+@import url("https://fonts.googleapis.com/css?family=Anton|Crete+Round");
+.body { border: 1px solid #801547; }
+
+body { font-family: 'Crete Round'; color: #af201e; }
+
+h1, h2, h3 { color: 1px, bold; }
+
+.carousel-caption h3 { color: 1px, italic; }
+
+.carousel-caption p { color: 1px, bold; }
+
+h1 { color: 3px, bold; font: 100% Anton, seriff; }
